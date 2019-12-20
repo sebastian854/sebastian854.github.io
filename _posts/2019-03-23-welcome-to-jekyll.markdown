@@ -4,9 +4,9 @@ title:  "clases"
 date:   2019-03-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
-**Fundamentos de la Ingenieria de Software**
+**FUNDAMENTOS DE LA INGENIERIA EN SOFTWARE**
 
-**Definición de IS**
+**DDEFINICION DE IS**
 
 
 <P ALIGN="justify"> Fritz Bauer, 1969: Más que una disciplina o una parte del conocimiento, 
@@ -15,11 +15,11 @@ La Ingeniería del Software es el establecimiento y uso de principios robustos d
 la ingeniería a fin de obtener económicamente so=ware que sea fiable y que 
 funcione eficientemente sobre maquinas reales.
 <P ALIGN="justify">
-**Bohem, 1976**: Ingeniería del Software es la aplicación practica del 
+Bohem, 1976: Ingeniería del Software es la aplicación practica del 
 conocimiento científico en el diseño y construcción de programas de computadora y 
 la documentación necesaria requerida para desarrollar, operar y mantenerlos.
 <P ALIGN="justify">
-Mills, 1980**: La Ingeniería de Software tiene como uno de sus principales objetivos 
+Mills, 1980: La Ingeniería de Software tiene como uno de sus principales objetivos 
 la producción de programas que cumplan las especificaciones, y que se demuestren 
 correctos, producidos en el plazo y costo adecuado.
 <P ALIGN="justify">
@@ -27,7 +27,7 @@ Meyer, 1988: La Ingeniería de Software es la producción de software de calidad
 <P ALIGN="justify">
 IEEE 1993: La Ingeniería de Software es la aplicación de un enfoque sistemático, disciplinado y cuantificable hacia el desarrollo, operación y mantenimiento del software; es decir, la aplicación de Ingeniería de Software.
 
-**Objetivos de la IS**
+**OBJETIVOS DE LA IS**
 <P ALIGN="justify">
 -Diseñar programas informáBcos que se adecúen a las exigencias de la sociedad.
 
