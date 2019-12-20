@@ -43,6 +43,3 @@ IEEE 1993: La Ingeniería de Software es la aplicación de un enfoque sistemáti
 -Liderar equipos de trabajo de desarrollo soIware.
 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
