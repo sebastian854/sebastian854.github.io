@@ -9,7 +9,7 @@ categories: Javascript NodeJS
 **DEFINICION DE IS**
 
 
-<P ALIGN="justify"> <P><B>Fritz Bauer</B>, 1969: Más que una disciplina o una parte del conocimiento, 
+<P ALIGN="justify"> <P><B>Fritz Bauer, 1969</B>: Más que una disciplina o una parte del conocimiento, 
 <P ALIGN="justify">la Ingeniería es un verbo, una palabra de acción, un modo de enfocar el problema.
 <P ALIGN="justify">La Ingeniería del Software es el establecimiento y uso de principios robustos de 
 <P ALIGN="justify">la ingeniería a fin de obtener económicamente so=ware que sea fiable y que 
