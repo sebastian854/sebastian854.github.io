@@ -14,17 +14,13 @@ categories: Javascript NodeJS
 <P ALIGN="justify">La Ingeniería del Software es el establecimiento y uso de principios robustos de 
 <P ALIGN="justify">la ingeniería a fin de obtener económicamente so=ware que sea fiable y que 
 <P ALIGN="justify">funcione eficientemente sobre maquinas reales.
-<P ALIGN="justify">
 <P ALIGN="justify">Bohem, 1976: Ingeniería del Software es la aplicación practica del 
 <P ALIGN="justify">conocimiento científico en el diseño y construcción de programas de computadora y 
 <P ALIGN="justify">la documentación necesaria requerida para desarrollar, operar y mantenerlos.
-<P ALIGN="justify">
 <P ALIGN="justify">Mills, 1980: La Ingeniería de Software tiene como uno de sus principales objetivos 
 <P ALIGN="justify">la producción de programas que cumplan las especificaciones, y que se demuestren 
 <P ALIGN="justify">correctos, producidos en el plazo y costo adecuado.
-<P ALIGN="justify">
 <P ALIGN="justify">Meyer, 1988: La Ingeniería de Software es la producción de software de calidad.
-<P ALIGN="justify">
 <P ALIGN="justify">IEEE 1993: La Ingeniería de Software es la aplicación de un enfoque sistemático, disciplinado y 
 <P ALIGN="justify">cuantificable hacia el desarrollo, operación y mantenimiento del software; es decir, la aplicación 
 <P ALIGN="justify">de Ingeniería de Software.
