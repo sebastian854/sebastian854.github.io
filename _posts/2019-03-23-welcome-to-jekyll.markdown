@@ -21,7 +21,7 @@ categories: Javascript NodeJS
 <P ALIGN="justify">la producción de programas que cumplan las especificaciones, y que se demuestren 
 <P ALIGN="justify">correctos, producidos en el plazo y costo adecuado.
 <P ALIGN="justify"> <P><B>Meyer, 1988</B>: La Ingeniería de Software es la producción de software de calidad.
-<P ALIGN="justify">IEEE 1993: La Ingeniería de Software es la aplicación de un enfoque sistemático, 
+<P ALIGN="justify"> <P><B>IEEE 1993</B>: La Ingeniería de Software es la aplicación de un enfoque sistemático, 
 <P ALIGN="justify">disciplinado y cuantificable hacia el desarrollo, operación y mantenimiento del software; 
 <P ALIGN="justify">es decir, la aplicación de Ingeniería de Software.
 
