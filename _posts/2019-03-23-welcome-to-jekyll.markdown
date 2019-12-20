@@ -6,7 +6,7 @@ categories: Javascript NodeJS
 ---
 **FUNDAMENTOS DE LA INGENIERIA EN SOFTWARE**
 
-**DDEFINICION DE IS**
+**DEFINICION DE IS**
 
 
 <P ALIGN="justify"> Fritz Bauer, 1969: Más que una disciplina o una parte del conocimiento, 
@@ -27,7 +27,8 @@ Meyer, 1988: La Ingeniería de Software es la producción de software de calidad
 <P ALIGN="justify">
 IEEE 1993: La Ingeniería de Software es la aplicación de un enfoque sistemático, disciplinado y cuantificable hacia el desarrollo, operación y mantenimiento del software; es decir, la aplicación de Ingeniería de Software.
 
-**OBJETIVOS DE LA IS**
+<P><B>OBJETIVOS DE LA IS</B>
+
 <P ALIGN="justify">
 -Diseñar programas informáBcos que se adecúen a las exigencias de la sociedad.
 
